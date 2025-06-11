@@ -1,10 +1,10 @@
 # Web Development Project 1 - *Name of App Here*
 
-Submitted by: **Your Name Here**
+Submitted by: **Mohamed Mudawi**
 
-This web app: **insert description**
+This web app: **Helps users learn more about software engineering**
 
-Time spent: **X** hours spent in total
+Time spent: **7** hours spent in total
 
 ## Required Features
 

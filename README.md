@@ -34,7 +34,7 @@ The following **additional** features are implemented:
 Here's a walkthrough of implemented required features:
 
 <img src='[http://i.imgur.com/link/to/your/gif/file.gif](https://i.imgur.com/HPRTHNr.gif)' title='Video Walkthrough' width='' alt='Video Walkthrough' />
-
+![Video Walkthrough](https://i.imgur.com/HPRTHNr.gif)
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with LiceCap  
 <!-- Recommended tools:
@@ -45,6 +45,8 @@ GIF created with LiceCap
 ## Notes
 
 Describe any challenges encountered while building the app.
+
+When I was trying to build this app, it was really difficult working with React. This was the first time I used it, and it wasn't easy. The entire time I was thinking "why don't we just use simple html, css, and javascript?" but as I kept building the app, it made sense why React is so popular. At the end, I got a lot better at using React, and I'm excited to continue building React projects.
 
 ## License
 
